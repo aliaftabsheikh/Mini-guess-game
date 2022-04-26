@@ -15,7 +15,7 @@
 
 <img width="500px" height="800px" src="./assets/Images/I-3.jpeg" alt="goal_app_img">
 
-## LandScape Mode Images
+# Landscape Mode Images
 
 <img width="1000px" height="400px" src="./assets/Images/L-1.jpeg" alt="goal_app_img">
 
